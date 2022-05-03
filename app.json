@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "sotMobile",
+    "slug": "sotMobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
